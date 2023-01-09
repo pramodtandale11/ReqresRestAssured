@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;basics.GetMethod&apos; to &apos;HttpMethods&apos;&#x0D;&#x0A;- Original project: &apos;RestAssured&apos;&#x0D;&#x0A;- Original element: &apos;basics.GetMethod&apos;&#x0D;&#x0A;- Renamed element: &apos;basics.HttpMethods&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;GetMethod&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src\/test\/java=/optional=/true=/=/maven.pomderived=/true=/=/test=/true=/&lt;basics{GetMethod.java[GetMethod" matchStrategy="1" name="HttpMethods" qualified="false" references="true" similarDeclarations="false" stamp="1673242177452" textual="false" version="1.0"/>
+</session>
