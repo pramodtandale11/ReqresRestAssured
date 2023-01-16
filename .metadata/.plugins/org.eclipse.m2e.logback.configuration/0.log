@@ -333,3 +333,5 @@
 2023-01-16 07:28:12,129 [Worker-35: Launching PostBody] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
 2023-01-16 07:28:39,030 [Worker-35: Launching PostBody] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
 2023-01-16 07:28:39,031 [Worker-35: Launching PostBody] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-01-16 07:28:39,033 [Worker-35: Launching PostBody] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-01-16 07:28:39,034 [Worker-35: Launching PostBody] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
