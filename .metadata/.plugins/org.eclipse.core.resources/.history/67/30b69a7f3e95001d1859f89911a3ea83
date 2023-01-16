@@ -1,0 +1,50 @@
+package basics;
+
+import static io.restassured.RestAssured.*;
+import static io.restassured.matcher.RestAssuredMatchers.*;
+import static org.hamcrest.Matchers.*;
+import java.util.HashMap;
+
+import org.json.JSONObject;
+import org.testng.annotations.Test;
+
+public class PostBody {
+
+	
+// Post method body by HashMap
+//	@Test
+	void postByHashMap() {
+		 HashMap<String, String> data = new HashMap<String, String>();
+		 data.put("name", "Test1");
+		 data.put("job", "Automation1");
+				
+		 	given()
+				.contentType("application/json")
+				.body(data)
+			.when()
+				.post("https://reqres.in/api/users")			
+			.then()			
+				.statusCode(201)
+				.log().all();
+	}
+	
+	// Post method body by JOSN path
+		@Test
+		void postByJSONObj() {
+			
+			
+			 JSONObject data = new JSONObject();
+			 data.put("name", "TestJson");
+			 data.put("job", "AutomationJson");
+					
+			 	given()
+					.contentType("application/json")
+					.body(data.toString())
+				.when()
+					.post("https://reqres.in/api/users")			
+				.then()			
+					.statusCode(201)
+					.log().all();
+		}
+
+}

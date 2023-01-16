@@ -2,28 +2,28 @@
 <testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2023-01-09T11:05:19 IST" name="Default suite" finished-at="2023-01-09T11:05:24 IST" duration-ms="4918">
+  <suite started-at="2023-01-16T07:28:40 IST" name="Default suite" finished-at="2023-01-16T07:28:44 IST" duration-ms="4334">
     <groups>
     </groups>
-    <test started-at="2023-01-09T11:05:19 IST" name="Default test" finished-at="2023-01-09T11:05:24 IST" duration-ms="4918">
-      <class name="basics.HttpMethods">
-        <test-method signature="getUser()[pri:0, instance:basics.HttpMethods@61df66b6]" started-at="2023-01-09T11:05:19 IST" name="getUser" finished-at="2023-01-09T11:05:23 IST" duration-ms="3210" status="PASS">
+    <test started-at="2023-01-16T07:28:40 IST" name="Default test" finished-at="2023-01-16T07:28:44 IST" duration-ms="4334">
+      <class name="basics.PostBody">
+        <test-method signature="postByExternalJsonFile()[pri:0, instance:basics.PostBody@291ae]" started-at="2023-01-16T07:28:40 IST" name="postByExternalJsonFile" finished-at="2023-01-16T07:28:43 IST" duration-ms="2814" status="PASS">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- getUser -->
-        <test-method signature="createUser()[pri:1, instance:basics.HttpMethods@61df66b6]" started-at="2023-01-09T11:05:23 IST" name="createUser" finished-at="2023-01-09T11:05:23 IST" duration-ms="788" status="PASS">
+        </test-method> <!-- postByExternalJsonFile -->
+        <test-method signature="postByHashMap()[pri:0, instance:basics.PostBody@291ae]" started-at="2023-01-16T07:28:43 IST" name="postByHashMap" finished-at="2023-01-16T07:28:43 IST" duration-ms="670" status="PASS">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- createUser -->
-        <test-method signature="updateUser()[pri:2, instance:basics.HttpMethods@61df66b6]" started-at="2023-01-09T11:05:23 IST" name="updateUser" finished-at="2023-01-09T11:05:24 IST" depends-on-methods="basics.HttpMethods.createUser" duration-ms="408" status="PASS">
+        </test-method> <!-- postByHashMap -->
+        <test-method signature="postByJSONObj()[pri:0, instance:basics.PostBody@291ae]" started-at="2023-01-16T07:28:43 IST" name="postByJSONObj" finished-at="2023-01-16T07:28:44 IST" duration-ms="376" status="PASS">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- updateUser -->
-        <test-method signature="deleteUser()[pri:3, instance:basics.HttpMethods@61df66b6]" started-at="2023-01-09T11:05:24 IST" name="deleteUser" finished-at="2023-01-09T11:05:24 IST" depends-on-methods="basics.HttpMethods.createUser" duration-ms="408" status="PASS">
+        </test-method> <!-- postByJSONObj -->
+        <test-method signature="postByPOJO()[pri:0, instance:basics.PostBody@291ae]" started-at="2023-01-16T07:28:44 IST" name="postByPOJO" finished-at="2023-01-16T07:28:44 IST" duration-ms="407" status="PASS">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- deleteUser -->
-      </class> <!-- basics.HttpMethods -->
+        </test-method> <!-- postByPOJO -->
+      </class> <!-- basics.PostBody -->
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->
 </testng-results>

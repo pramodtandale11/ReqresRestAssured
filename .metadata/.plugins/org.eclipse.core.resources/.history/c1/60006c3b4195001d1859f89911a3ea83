@@ -1,0 +1,97 @@
+package basics;
+
+import static io.restassured.RestAssured.*;
+import static io.restassured.matcher.RestAssuredMatchers.*;
+import static org.hamcrest.Matchers.*;
+
+import java.io.File;
+import java.io.FileNotFoundException;
+import java.io.FileReader;
+import java.util.HashMap;
+
+import org.json.JSONObject;
+import org.json.JSONTokener;
+import org.testng.annotations.Test;
+
+
+public class PostBody {
+
+	
+// Post method body by HashMap
+//	@Test
+	void postByHashMap() {
+		 HashMap<String, String> data = new HashMap<String, String>();
+		 data.put("name", "Test1");
+		 data.put("job", "Automation1");
+				
+		 	given()
+				.contentType("application/json")
+				.body(data)
+			.when()
+				.post("https://reqres.in/api/users")			
+			.then()			
+				.statusCode(201)
+				.log().all();
+	}
+	
+	// Post method body by JOSN path
+	//	@Test
+		void postByJSONObj() {
+			
+			
+			 JSONObject data = new JSONObject();
+			 data.put("name", "TestJson");
+			 data.put("job", "AutomationJson");
+					
+			 	given()
+					.contentType("application/json")
+					.body(data.toString())
+				.when()
+					.post("https://reqres.in/api/users")			
+				.then()			
+					.statusCode(201)
+					.log().all();
+		}
+		
+		// Post method body by JOSN path
+		//	@Test
+			void postByPOJO() {
+				
+				POJO_PostReq data = new POJO_PostReq();
+				data.setName("Scott");
+				data.setJob("Engineer");
+									
+				 	given()
+						.contentType("application/json")
+						.body(data)
+					.when()
+						.post("https://reqres.in/api/users")			
+					.then()			
+						.statusCode(201)
+						.log().all();
+			}
+			
+			// Post method body by JOSN external file
+				@Test
+				void postByExternalJsonFile() throws FileNotFoundException {
+					//to import file
+					File f = new File(".java\\basics\\body.json");
+					//to read the file
+					FileReader fr = new FileReader(f);
+					//to token the file
+					JSONTokener jt = new JSONTokener(fr);
+					//to make data object to pass
+					JSONObject data = new JSONObject(jt);
+					
+										
+					 	given()
+							.contentType("application/json")
+							.body(data.toString())
+						.when()
+							.post("https://reqres.in/api/users")			
+						.then()			
+							.statusCode(201)
+							.log().all();
+				}
+	
+}
