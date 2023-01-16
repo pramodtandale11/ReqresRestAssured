@@ -1,29 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2023-01-16T07:28:40 IST" name="Default suite" finished-at="2023-01-16T07:28:44 IST" duration-ms="4334">
+  <suite started-at="2023-01-16T08:30:52 IST" name="Default suite" finished-at="2023-01-16T08:30:55 IST" duration-ms="2908">
     <groups>
     </groups>
-    <test started-at="2023-01-16T07:28:40 IST" name="Default test" finished-at="2023-01-16T07:28:44 IST" duration-ms="4334">
-      <class name="basics.PostBody">
-        <test-method signature="postByExternalJsonFile()[pri:0, instance:basics.PostBody@291ae]" started-at="2023-01-16T07:28:40 IST" name="postByExternalJsonFile" finished-at="2023-01-16T07:28:43 IST" duration-ms="2814" status="PASS">
+    <test started-at="2023-01-16T08:30:52 IST" name="Default test" finished-at="2023-01-16T08:30:55 IST" duration-ms="2908">
+      <class name="basics.CookiesInfo">
+        <test-method signature="getSigleCookie()[pri:0, instance:basics.CookiesInfo@243c4f91]" started-at="2023-01-16T08:30:52 IST" name="getSigleCookie" finished-at="2023-01-16T08:30:55 IST" duration-ms="2853" status="PASS">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- postByExternalJsonFile -->
-        <test-method signature="postByHashMap()[pri:0, instance:basics.PostBody@291ae]" started-at="2023-01-16T07:28:43 IST" name="postByHashMap" finished-at="2023-01-16T07:28:43 IST" duration-ms="670" status="PASS">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- postByHashMap -->
-        <test-method signature="postByJSONObj()[pri:0, instance:basics.PostBody@291ae]" started-at="2023-01-16T07:28:43 IST" name="postByJSONObj" finished-at="2023-01-16T07:28:44 IST" duration-ms="376" status="PASS">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- postByJSONObj -->
-        <test-method signature="postByPOJO()[pri:0, instance:basics.PostBody@291ae]" started-at="2023-01-16T07:28:44 IST" name="postByPOJO" finished-at="2023-01-16T07:28:44 IST" duration-ms="407" status="PASS">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- postByPOJO -->
-      </class> <!-- basics.PostBody -->
+        </test-method> <!-- getSigleCookie -->
+      </class> <!-- basics.CookiesInfo -->
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->
 </testng-results>
