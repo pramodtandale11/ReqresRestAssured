@@ -1,0 +1,37 @@
+package basics;
+
+import static io.restassured.RestAssured.*;
+import static io.restassured.matcher.RestAssuredMatchers.*;
+import static org.hamcrest.Matchers.*;
+
+import static io.restassured.RestAssured.given;
+import org.testng.annotations.Test;
+
+import io.restassured.response.Response;
+
+public class HeadersInfo {
+
+	//to validate headers
+	@Test
+	 void validateHeaders() {
+		
+				given()	
+				.when()
+					.get("https://www.google.com/")
+				.then()
+					.header("Content-Type", "text/html; charset=ISO-8859-1")
+					.header("Content-Encoding","gzip");
+
+		}
+	
+	@Test
+	 void getSingleHeader() {
+		
+		Response res = 	given()	
+				.when()
+					.get("https://www.google.com/");
+		String header_value = res.getHeader("Content-Type");
+		System.out.println("The header value is =========>  "+header_value);
+		}
+	
+	}

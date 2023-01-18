@@ -395,3 +395,139 @@
 2023-01-16 08:33:52,905 [Worker-62: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
 2023-01-16 08:33:52,906 [Worker-62: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
 2023-01-16 08:33:52,907 [Worker-62: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-01-17 07:30:27,350 [Worker-1: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2023-01-17 07:34:08,339 [Worker-3: Launching CookiesInfo] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-01-17 07:34:08,410 [Worker-3: Launching CookiesInfo] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-01-17 07:34:08,414 [Worker-3: Launching CookiesInfo] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-01-17 07:34:08,415 [Worker-3: Launching CookiesInfo] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-01-17 07:34:59,036 [Worker-4: Launching CookiesInfo] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-01-17 07:34:59,039 [Worker-4: Launching CookiesInfo] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-01-17 07:34:59,042 [Worker-4: Launching CookiesInfo] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-01-17 07:34:59,056 [Worker-4: Launching CookiesInfo] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-01-17 07:35:21,199 [Worker-7: Launching CookiesInfo] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-01-17 07:35:21,202 [Worker-7: Launching CookiesInfo] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-01-17 07:35:21,208 [Worker-7: Launching CookiesInfo] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-01-17 07:35:21,212 [Worker-7: Launching CookiesInfo] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-01-17 07:38:51,672 [Worker-0: Launching CookiesInfo] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-01-17 07:38:51,673 [Worker-0: Launching CookiesInfo] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-01-17 07:38:51,676 [Worker-0: Launching CookiesInfo] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-01-17 07:38:51,677 [Worker-0: Launching CookiesInfo] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-01-17 07:39:42,325 [Worker-6: Launching CookiesInfo] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-01-17 07:39:42,327 [Worker-6: Launching CookiesInfo] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-01-17 07:39:42,329 [Worker-6: Launching CookiesInfo] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-01-17 07:39:42,331 [Worker-6: Launching CookiesInfo] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-01-17 07:47:09,462 [Worker-13: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-01-17 07:47:09,463 [Worker-13: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-01-17 07:47:09,469 [Worker-13: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-01-17 07:47:09,476 [Worker-13: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-01-17 07:50:38,178 [Worker-14: Launching HeadersInfo] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-01-17 07:50:38,179 [Worker-14: Launching HeadersInfo] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-01-17 07:50:38,181 [Worker-14: Launching HeadersInfo] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-01-17 07:50:38,183 [Worker-14: Launching HeadersInfo] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-01-17 08:05:28,699 [Worker-19: Launching HeadersInfo] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-01-17 08:05:28,700 [Worker-19: Launching HeadersInfo] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-01-17 08:05:28,702 [Worker-19: Launching HeadersInfo] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-01-17 08:05:28,704 [Worker-19: Launching HeadersInfo] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-01-17 08:09:48,556 [Worker-15: Launching HeadersInfo] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-01-17 08:09:48,559 [Worker-15: Launching HeadersInfo] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-01-17 08:09:48,561 [Worker-15: Launching HeadersInfo] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-01-17 08:09:48,563 [Worker-15: Launching HeadersInfo] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-01-17 08:11:35,820 [Worker-21: Launching HeadersInfo] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-01-17 08:11:35,822 [Worker-21: Launching HeadersInfo] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-01-17 08:11:35,824 [Worker-21: Launching HeadersInfo] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-01-17 08:11:35,825 [Worker-21: Launching HeadersInfo] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-01-17 08:12:37,704 [Worker-22: Launching HeadersInfo] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-01-17 08:12:37,706 [Worker-22: Launching HeadersInfo] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-01-17 08:12:37,708 [Worker-22: Launching HeadersInfo] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-01-17 08:12:37,710 [Worker-22: Launching HeadersInfo] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-01-17 08:14:45,943 [Worker-15: Launching HeadersInfo] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-01-17 08:14:45,945 [Worker-15: Launching HeadersInfo] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-01-17 08:14:45,947 [Worker-15: Launching HeadersInfo] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-01-17 08:14:45,950 [Worker-15: Launching HeadersInfo] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-01-17 08:24:15,212 [Worker-25: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-01-17 08:24:15,213 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-01-17 08:24:15,214 [Worker-25: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-01-17 08:24:15,216 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-01-17 08:36:21,894 [Worker-26: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-01-17 08:36:21,895 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-01-17 08:36:21,897 [Worker-26: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-01-17 08:36:21,899 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-01-17 08:37:58,064 [Worker-26: Launching JsonBodyParsing] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-01-17 08:37:58,065 [Worker-26: Launching JsonBodyParsing] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-01-17 08:37:58,067 [Worker-26: Launching JsonBodyParsing] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-01-17 08:37:58,068 [Worker-26: Launching JsonBodyParsing] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-01-17 09:01:15,211 [Worker-32: Launching JsonBodyParsing] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-01-17 09:01:15,212 [Worker-32: Launching JsonBodyParsing] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-01-17 09:01:15,214 [Worker-32: Launching JsonBodyParsing] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-01-17 09:01:15,216 [Worker-32: Launching JsonBodyParsing] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-01-17 09:03:02,349 [Worker-34: Launching JsonBodyParsing] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-01-17 09:03:02,350 [Worker-34: Launching JsonBodyParsing] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-01-17 09:03:02,352 [Worker-34: Launching JsonBodyParsing] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-01-17 09:03:02,353 [Worker-34: Launching JsonBodyParsing] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-01-17 09:03:26,876 [Worker-33: Launching JsonBodyParsing] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-01-17 09:03:26,877 [Worker-33: Launching JsonBodyParsing] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-01-17 09:03:26,879 [Worker-33: Launching JsonBodyParsing] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-01-17 09:03:26,880 [Worker-33: Launching JsonBodyParsing] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-01-17 09:04:38,796 [Worker-35: Launching JsonBodyParsing] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-01-17 09:04:38,797 [Worker-35: Launching JsonBodyParsing] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-01-17 09:04:38,801 [Worker-35: Launching JsonBodyParsing] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-01-17 09:04:38,806 [Worker-35: Launching JsonBodyParsing] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-01-17 09:06:42,406 [Worker-32: Launching JsonBodyParsing] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-01-17 09:06:42,407 [Worker-32: Launching JsonBodyParsing] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-01-17 09:06:42,409 [Worker-32: Launching JsonBodyParsing] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-01-17 09:06:42,411 [Worker-32: Launching JsonBodyParsing] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-01-18 07:31:08,685 [Worker-1: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2023-01-18 07:40:01,188 [Worker-6: Launching JsonBodyParsing] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-01-18 07:40:01,215 [Worker-6: Launching JsonBodyParsing] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-01-18 07:40:01,219 [Worker-6: Launching JsonBodyParsing] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-01-18 07:40:01,220 [Worker-6: Launching JsonBodyParsing] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-01-18 07:41:25,413 [Worker-7: Launching JsonBodyParsing] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-01-18 07:41:25,416 [Worker-7: Launching JsonBodyParsing] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-01-18 07:41:25,419 [Worker-7: Launching JsonBodyParsing] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-01-18 07:41:25,439 [Worker-7: Launching JsonBodyParsing] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-01-18 07:42:34,529 [Worker-3: Launching JsonBodyParsing.JsonObject1] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-01-18 07:42:34,531 [Worker-3: Launching JsonBodyParsing.JsonObject1] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-01-18 07:42:34,533 [Worker-3: Launching JsonBodyParsing.JsonObject1] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-01-18 07:42:34,535 [Worker-3: Launching JsonBodyParsing.JsonObject1] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-01-18 07:43:07,332 [Worker-1: Launching JsonBodyParsing] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-01-18 07:43:07,333 [Worker-1: Launching JsonBodyParsing] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-01-18 07:43:07,335 [Worker-1: Launching JsonBodyParsing] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-01-18 07:43:07,337 [Worker-1: Launching JsonBodyParsing] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-01-18 07:48:31,187 [Worker-9: Launching JsonBodyParsing] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-01-18 07:48:31,188 [Worker-9: Launching JsonBodyParsing] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-01-18 07:48:31,191 [Worker-9: Launching JsonBodyParsing] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-01-18 07:48:31,192 [Worker-9: Launching JsonBodyParsing] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-01-18 07:50:23,812 [Worker-14: Launching JsonBodyParsing] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-01-18 07:50:23,813 [Worker-14: Launching JsonBodyParsing] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-01-18 07:50:23,817 [Worker-14: Launching JsonBodyParsing] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-01-18 07:50:23,819 [Worker-14: Launching JsonBodyParsing] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-01-18 07:53:19,135 [Worker-17: Launching JsonBodyParsing] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-01-18 07:53:19,136 [Worker-17: Launching JsonBodyParsing] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-01-18 07:53:19,138 [Worker-17: Launching JsonBodyParsing] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-01-18 07:53:19,139 [Worker-17: Launching JsonBodyParsing] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-01-18 07:53:32,908 [Worker-14: Launching JsonBodyParsing] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-01-18 07:53:32,910 [Worker-14: Launching JsonBodyParsing] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-01-18 07:53:32,912 [Worker-14: Launching JsonBodyParsing] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-01-18 07:53:32,914 [Worker-14: Launching JsonBodyParsing] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-01-18 07:54:12,518 [Worker-20: Launching JsonBodyParsing] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-01-18 07:54:12,521 [Worker-20: Launching JsonBodyParsing] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-01-18 07:54:12,523 [Worker-20: Launching JsonBodyParsing] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-01-18 07:54:12,525 [Worker-20: Launching JsonBodyParsing] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-01-18 07:54:28,565 [Worker-20: Launching JsonBodyParsing] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-01-18 07:54:28,566 [Worker-20: Launching JsonBodyParsing] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-01-18 07:54:28,568 [Worker-20: Launching JsonBodyParsing] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-01-18 07:54:28,571 [Worker-20: Launching JsonBodyParsing] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-01-18 07:54:54,776 [Worker-17: Launching JsonBodyParsing] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-01-18 07:54:54,778 [Worker-17: Launching JsonBodyParsing] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-01-18 07:54:54,780 [Worker-17: Launching JsonBodyParsing] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-01-18 07:54:54,781 [Worker-17: Launching JsonBodyParsing] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-01-18 08:04:43,222 [Worker-19: Launching JsonBodyParsing] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-01-18 08:04:43,224 [Worker-19: Launching JsonBodyParsing] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-01-18 08:04:43,226 [Worker-19: Launching JsonBodyParsing] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-01-18 08:04:43,228 [Worker-19: Launching JsonBodyParsing] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-01-18 08:06:18,134 [Worker-24: Launching JsonBodyParsing] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-01-18 08:06:18,136 [Worker-24: Launching JsonBodyParsing] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-01-18 08:06:18,137 [Worker-24: Launching JsonBodyParsing] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-01-18 08:06:18,139 [Worker-24: Launching JsonBodyParsing] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-01-18 08:08:52,992 [Worker-29: Launching JsonBodyParsing] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-01-18 08:08:52,993 [Worker-29: Launching JsonBodyParsing] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource

@@ -2,16 +2,16 @@
 <testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2023-01-16T08:30:52 IST" name="Default suite" finished-at="2023-01-16T08:30:55 IST" duration-ms="2908">
+  <suite started-at="2023-01-18T08:08:54 IST" name="Default suite" finished-at="2023-01-18T08:08:56 IST" duration-ms="2552">
     <groups>
     </groups>
-    <test started-at="2023-01-16T08:30:52 IST" name="Default test" finished-at="2023-01-16T08:30:55 IST" duration-ms="2908">
-      <class name="basics.CookiesInfo">
-        <test-method signature="getSigleCookie()[pri:0, instance:basics.CookiesInfo@243c4f91]" started-at="2023-01-16T08:30:52 IST" name="getSigleCookie" finished-at="2023-01-16T08:30:55 IST" duration-ms="2853" status="PASS">
+    <test started-at="2023-01-18T08:08:54 IST" name="Default test" finished-at="2023-01-18T08:08:56 IST" duration-ms="2552">
+      <class name="parsing.JsonBodyParsing">
+        <test-method signature="JsonObject1()[pri:2, instance:parsing.JsonBodyParsing@243c4f91]" started-at="2023-01-18T08:08:54 IST" name="JsonObject1" finished-at="2023-01-18T08:08:56 IST" duration-ms="2484" status="PASS">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- getSigleCookie -->
-      </class> <!-- basics.CookiesInfo -->
+        </test-method> <!-- JsonObject1 -->
+      </class> <!-- parsing.JsonBodyParsing -->
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->
 </testng-results>

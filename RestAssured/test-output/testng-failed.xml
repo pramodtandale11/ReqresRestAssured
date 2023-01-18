@@ -3,11 +3,11 @@
 <suite name="Failed suite [Default suite]" guice-stage="DEVELOPMENT">
   <test thread-count="5" name="Default test(failed)">
     <classes>
-      <class name="basics.PostBody">
+      <class name="parsing.JsonBodyParsing">
         <methods>
-          <include name="postByExternalJsonFile"/>
+          <include name="JsonObject1"/>
         </methods>
-      </class> <!-- basics.PostBody -->
+      </class> <!-- parsing.JsonBodyParsing -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->

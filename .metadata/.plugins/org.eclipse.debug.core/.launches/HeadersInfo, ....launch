@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<launchConfiguration type="org.testng.eclipse.launchconfig">
+    <stringAttribute key="org.eclipse.jdt.launching.CLASSPATH_PROVIDER" value="org.eclipse.m2e.launchconfig.classpathProvider"/>
+    <stringAttribute key="org.eclipse.jdt.launching.MAIN_TYPE" value="org.testng.remote.RemoteTestNG"/>
+    <stringAttribute key="org.eclipse.jdt.launching.PROJECT_ATTR" value="RestAssured"/>
+    <stringAttribute key="org.eclipse.jdt.launching.SOURCE_PATH_PROVIDER" value="org.eclipse.m2e.launchconfig.sourcepathProvider"/>
+    <mapAttribute key="org.testng.eclipse.ALL_CLASS_METHODS">
+        <mapEntry key="basics.CookiesInfo" value="getUser;getSingleCookie;getListofCookies"/>
+        <mapEntry key="basics.HeadersInfo" value="getHeaders;validateHeaders;getListHeader;getSingleHeader"/>
+        <mapEntry key="basics.HttpMethods" value="deleteUser;createUser;updateUser;getUser"/>
+        <mapEntry key="basics.POJO_PostReq" value="setName;getName;getJob;setJob"/>
+        <mapEntry key="basics.PostBody" value="postByPOJO;postByExternalJsonFile;postByJSONObj;postByHashMap"/>
+        <mapEntry key="basics.QueryandPathParam" value="getUser"/>
+    </mapAttribute>
+    <listAttribute key="org.testng.eclipse.CLASS_TEST_LIST">
+        <listEntry value="basics.HttpMethods"/>
+        <listEntry value="basics.PostBody"/>
+        <listEntry value="basics.HeadersInfo"/>
+        <listEntry value="basics.CookiesInfo"/>
+        <listEntry value="basics.POJO_PostReq"/>
+        <listEntry value="basics.QueryandPathParam"/>
+    </listAttribute>
+    <listAttribute key="org.testng.eclipse.METHOD_TEST_LIST"/>
+    <listAttribute key="org.testng.eclipse.PACKAGE_TEST_LIST"/>
+    <stringAttribute key="org.testng.eclipse.PRE_DEFINED_LISTENERS" value=""/>
+    <intAttribute key="org.testng.eclipse.TYPE" value="1"/>
+</launchConfiguration>

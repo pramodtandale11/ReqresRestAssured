@@ -1,0 +1,43 @@
+package parsing;
+
+import static io.restassured.RestAssured.given;
+import static org.hamcrest.Matchers.equalTo;
+
+import org.testng.Assert;
+import org.testng.annotations.Test;
+
+import io.restassured.response.Response;
+
+public class JsonBodyParsing {
+
+//Approach 1 : validating with body method
+	@Test (priority = 0)
+	 void getUserData() {
+		
+		given()	
+		.when()
+			.get("https://reqres.in/api/users/2")		
+		.then()
+			.statusCode(200)
+			.body("data.id",equalTo(2))
+			.log().body();
+	}
+	
+	//Approach 2 : validating with testNG assertion
+		@Test (priority = 1)
+		 void validatebyTestNG() {
+			
+			Response res = given()	
+			.when()
+				.get("https://reqres.in/api/users/2");	
+			
+			Assert.assertEquals(res.statusCode(), 200);
+			
+			String id = res.jsonPath().get("data.id").toString();
+			Assert.assertEquals(id, "2");
+			
+			String text = res.jsonPath().getString("support.text").toString();
+			Assert.assertEquals(text, "To keep ReqRes free, contributions towards server costs are appreciated!");
+
+		}
+}
